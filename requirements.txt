@@ -1,0 +1,4 @@
+httpx==0.24.1
+flet==0.18.0
+googletrans==4.0.0rc1
+g4f==0.1.9.8
